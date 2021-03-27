@@ -97,4 +97,4 @@ module.exports = templateData => {
   `;
 };
 
-module.exports = { writeFile, copyFile};
+module.exports = {writeFile, copyFile};
